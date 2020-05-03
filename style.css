@@ -3,5 +3,10 @@ body {
     background-color:#FF0000;
 }
 img{
+   width: 47%;
     float:left;
+}
+form {
+   width: 47%;
+   float: right; 
 }
